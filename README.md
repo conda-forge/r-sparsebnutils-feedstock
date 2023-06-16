@@ -1,11 +1,11 @@
-About r-sparsebnutils
-=====================
+About r-sparsebnutils-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sparsebnutils-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/itsrainingdata/sparsebnUtils
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sparsebnutils-feedstock/blob/main/LICENSE.txt)
 
 Summary: A set of tools for representing and estimating sparse Bayesian networks from continuous and discrete data, as described in Aragam, Gu, and Zhou (2017) <arXiv:1703.04025>.
 
